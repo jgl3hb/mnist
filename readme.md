@@ -1,0 +1,3 @@
+CUDA 11.8
+NVIDIA 535
+Tensorflow
